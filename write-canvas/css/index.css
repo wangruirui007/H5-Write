@@ -1,0 +1,30 @@
+/* 
+* @Author: anchen
+* @Date:   2016-12-16 15:57:34
+* @Last Modified by:   anchen
+* @Last Modified time: 2016-12-16 16:39:20
+*/
+body,html{  
+    margin: 0;  
+    padding: 0;  
+    height: 100%;  
+} 
+ #canvas {
+    border:0.01rem solid #f30;
+ }
+#canvas-btn{  
+    display: block;  
+    margin: 0;  
+    padding: 0.13rem;  
+}  
+#clear_btn{  
+    width: 80%;  
+    background: #ca4341;  
+    margin: auto;  
+    text-align: center;  
+    line-height: 1rem;  
+    margin-top: 0.27rem;  
+    color: #fff;  
+    border-radius: 1.31rem;   
+    clear: both;  
+}  
